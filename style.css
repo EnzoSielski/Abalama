@@ -1,0 +1,8 @@
+#banner{
+    text-align: center;
+    vertical-align: middle;
+    width: 1080px;
+    height: 480px;
+    border-width: 500px;
+    border-color: black;
+}
