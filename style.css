@@ -1,6 +1,81 @@
-#banner{
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
+header{
+    font-size: 30px;
+    color: red;
+    background: #BBBBBB;
 }
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 10 auto;
+}
+
+header h1{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+     
+}
+
+.conteudo h1{
+    text-align: center;
+}
+
+.fantasia1{
+    position: absolute;
+    top: 300px;
+    left: 50px;
+    padding-bottom: 50px;
+}
+.nome1{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: 5px solid red;
+
+}
+
+
+.fantasia2{
+    position: absolute;
+    top: 300px;
+    left: 1000px;
+}
+.nome2{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: 5px solid red;
+}
+
+.fantasia3{
+    position: absolute;
+    top: 800px;
+    left: 50px;
+}
+.nome3{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: 5px solid red;
+
+}
+
+.fantasia4{
+    position: absolute;
+    top: 800px;
+    left: 1000px;
+}
+.nome4{
+
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: 5px solid red;
+}
+
+
+h3{
+    text-align: center;
+}
+
